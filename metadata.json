@@ -1,0 +1,6 @@
+{
+  "name": "Haven — Private Personal AI",
+  "description": "Your private AI companion for creativity, learning, and daily life. Built with zero-knowledge local encryption, cross-device sync, and private local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
